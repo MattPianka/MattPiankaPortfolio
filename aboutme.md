@@ -15,4 +15,4 @@ One project I have done in a class is creating an umbrella for _MAE 2250: Introd
 <div style="height:40px;"></div>
 
 
-<img src="{{ site.baseurl }}\assets\images\plane_running.JPG" alt="plane-running" class="project-image" style="width:100%;">
+<img src="{{ site.baseurl }}\assets\images\plane_running.JPG" alt="" class="project-image" style="width:100%;">
