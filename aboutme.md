@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="image-wrapper">
-  <img src="{{ site.baseurl }}/assets/css/images/Headshot.jpg" alt="Matt Pianka" class="profile-image">
+  <img src="{{ site.baseurl }}/assets/LEAD Matt Pianka - Mechanical Engineering 2027.JPG" alt="Matt Pianka" class="profile-image">
 </div>
 
 Hey, I’m Matt, and I'm a junior studying Mechanical Engineering at Cornell University
