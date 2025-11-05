@@ -4,62 +4,55 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-## Education
-  - **Cornell University**  
+## EDUCATION
+  - **Cornell University, College of Engineering**  
     *B.S. Mechanical Engineering*  
     GPA: 3.71/4.0 | Graduation: May 2027
 
 ---
 
-## Work Experience
+## LEADERSHIP & EXPERIENCE
+
+  - **CSalt Project Team - Co-Founder and Mechanical Subteam Lead**  
+    August 2024 - Present
+    -	Achieved the Best Technical Design at the U.S. D.O.E.’s Marine Energy Collegiate Competition (MECC)
+    -	Directing a team in design, CAD modeling (Fusion 360), data analysis, and construction of a wave-powered desalination system
+    -	Coordinating and facilitating weekly work sessions, general body, and E-Board meetings to ensure collaboration and progress
+    -	Collaborating in weekly lab meetings on wave energy converters, gaining insight to enhance the device’s design and functionality
+
+
 
   - **DuPont - Engineering Intern**  
-    May - August 2025  
-    -	Engaged in conversations with investors, founders, and experts in a variety of fields including artificial intelligence, technology, medicine, and energy.
-    -	Analyzed multiple investment opportunities ranging from early growth stage companies to public companies pivoting their growth model.
+    May - August 2025 
+    - Prevented $3+ million in damages through supporting the process chilled water loop cleaning by managing chemistry treatment, testing, and Building Management System updates to resolve contamination and flow issues
+    - Created and delegated 200+ work orders and preventative maintenance procedures across all departments to maintain smooth site operation and improve task efficiency
+    - Audited and updated 350+ equipment records in MaintainX and labeled units to improve maintenance efficiency & identification
+    - Collaborated with engineers & technicians in daily meetings to find data-driven solutions to abnormal system behaviors
 
 
-  - **Formlabs - Manufacturing Intern**  
-    July 2024 - August 2024  
-    - Ran quality control tests on the newest line of 3D printers for this spinout from MIT’s Center for Bits and Atoms research lab.
-    - Ensured effectiveness of the tests and consistent quality of manufacturing process. 
-    - Helped build a redesigned levelness test to be used in the factory for product consistency. 
-    - Conducted and led a stress test of the new machines to identify issues with either the machines or prints resulting from large volume or consistent usage.  
-
-  - **Barnstable Coast Guard Heritage Museum - Apprentice Blacksmith**  
-    Summer 2021-2023
-    - Led production of many small to medium-sized projects for the blacksmith shop which were sold at the museum, while maturing my self-taught blacksmithing skills.
-    - Assisted the master smith in creation of larger, more complex projects and installations.
-    - Invited to demonstrate my skills and explain the blacksmithing profession at the county fair.
-      
-  ---
-
-## Organization and Leadership Experience
-
-  - **CSalt**:
-  
-    *Founder and Mechanical Subteam Lead*
-    - Founded and launched an engineering club focused on developing wave-powered desalination technology for large-scale sustainable drinking water solutions.
-    - Lead 51-member team competing in Department of Energy’s Marine Energy Collegiate Competition.
-    - Awarded $15,000 of funding from the Department of Energy and won national award for our design.
-    - Work closely with advising professor, PhD candidate staff, and the SEA lab at Cornell.
-    
-- **CU Solar Boat**:
+  - **Cornell University Solar Boat Project Team - Drivetrain & Steering Subteam Lead**  
+    March 2024 - May 2025
+    - Utilized SolidWorks to redesign drivetrain components to reduce noise and enhance efficiency & performance at competition
+    - Customized propeller shaft using hub adapters to allow seamless propeller transitions for optimized performance in sprint, endurance, and slalom competitions
+    - Assembled, tested, and redesigned the drivetrain and steering system during multiple work sessions per week and engaged in weekly E-Board meetings, contributing to the team’s overall readiness for competition
+    - Configured steering mechanism and integrated the drivetrain onto a solar-powered boat for participation, successfully preparing it for the annual Solar Splash competition
    
-    *Drivetrain & Steering Subteam Lead*  
-    - Key contributor on 30-member engineering team building a solar powered boat.
-    - Focused on construction of the hull and helped develop a new method of hull construction. Adapted our previous hull to fit the current needs of the other sub teams without compromising the hulls effectiveness.
- 
+    - **Solar Windows Coated with Yb-doped Perovskites - Research Team Member**
+    August - December 2023
+      - Designed an unobtrusive window that harnesses solar energy to power homes and analyzed the market for feasible applications
+      - Researched various methods of synthesizing thin-film perovskites
+      - Calculated energy efficiency of the solar window and estimated cost of installation
 
   ---
 
-## Skills
-  - Programming: Python, MATLAB
-  - Software: Fusion360, SolidWorks, ChatGPT
-  - Manufacturing: Machine-Shop Trained, 3D Printing, Laser Cutting
+## SKILLS
+  - Programming: MATLAB (Intermediate), Python (Intermediate)
+  - Software: Fusion360 (Intermediate), SolidWorks (Intermediate), Microsoft Office (Intermediate)
+  - Manufacturing: Machine Shop Trained (Lathe, Mill)
+  - Languages: Polish (Fluent), Spanish (Intermediate)
 
   <div class="resume-download">
-    <a href="{{ site.baseurl }}\assets\files\Max_Kinder_Resume_2025_Fall.pdf" class="download-button" download>
+    <a href="{{ site.baseurl }}\assets\files\Matthew Pianka Resume 11-5-25" class="download-button" download>
         Download Resume (PDF)
     </a>
   </div>
