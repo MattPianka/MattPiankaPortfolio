@@ -3,51 +3,51 @@ layout: page
 title: Coursework
 permalink: /coursework/
 ---
+## Junior Year
 
-## Coming Up...
-
+**Fall 2025**
 - **MAE 3230:** Introductory Fluid Mechanics
 - **MAE 3270:** Mechanics of Engineering Materials
 - **MAE 3260:** System Dynamics
-- **CLASS 2601:** The Greek Experience
+- **PSYCH 2450:** Pursuing Happiness
+- **PHIL 1100:** Introduction to Philosophy
 
 ---
 
 ## Sophomore Year
 
-**Summer 2025**
-- **MAE 2030:** Dynamics
-
 **Spring 2025**
-- **PHYS 2214:** Oscillations, Waves, and Quantum Mechanics
-- **MAE 2250:** Intro to Mechanical Design
-- **MATH 2930:** Differential Equations For Engineers
-- **ARKEO 2661:** Ancient Ships and Seafaring: Introduction to Nautical Archaeology
-- **ARKEO 3245:** Across the Seas: Contact Between the Americas and the Old World Before Columbus
+- **MAE 2250:** Introduction to Mechanical Design
+- **MAE 2030:** Dynamics
+- **ENGRD 2700:** Engineering Probability and Statistics
+- **MUSIC 1312:** History of Rock Music
 
 **Fall 2024**
-- **MATH 2940:** Linear Algebra for Engineers
-- **ENGRD 2700:** Engineering Probability and Statistics
 - **ENGRD 2210:** Thermodynamics
-- **CLASS 2630:** Drinking Through the Ages
+- **ENGRD 2020:** Statics and Mechanics of Solids
+- **MATH 2940:** Linear Algebra for Engineers
+- **PHYS 2216:** Introduction to Special Relativity
+- **ECON 1110:** Introductory Microeconomics
 
 ---
 
 ## Freshman Year
 
 **Spring 2024**
-- **ENGRD 2020:** Statics and Mechanics of Solids
-- **PHYS 1110:** Intro to Experimental Physics
-- **ARKEO 2640:** Introduction to Ancient Medicine
-- **MATH 1920:** Multivariable Calculus For Engineers
 - **CS 1112:** Introduction to Computing
+- **PHYS 2213:** Physics II: Electromagnetism
+- **MATH 2930:** Differential Equations for Engineers
+- **ENGL 1160:** Freshman Writing Seminar: Race, Writing, and Power
+- **PE 1626:** Wilderness 1st Responder
 
 **Fall 2023**
-- **CHEM 2090:** Engineering General Chemistry
-- **CLASS 1531:** FWS: Greek Myth
 - **ENGRI 1140:** Materials: The Future of Energy
-- **MATH 1910:** Calculus for Engineers
+- **MATH 1920:** Multivariable Calculus For Engineers
+- **PHYS 1112:** Physics I: Mechanics and Heat
+- **PHYS 1110:** Introduction to Experimental Physics
 - **ENGRG 1050:** Engineering Seminar
+- **PHIL 1112:** Freshman Writing Seminar: Philosophic Conversations: Borders, Immigration, & Citizenship
+- **PE 1640:** Basic Rock Climbing
 
 
 <div class="resume-download">
