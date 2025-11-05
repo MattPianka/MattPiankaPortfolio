@@ -5,18 +5,12 @@ permalink: /
 ---
 
 <div class="image-wrapper">
-  <img src="{{ site.baseurl }}/assets/images/Headshot.jpg" alt="Max Kinder" class="profile-image">
+  <img src="{{ site.baseurl }}/assets/css/images/Headshot.jpg" alt="Matt Pianka" class="profile-image">
 </div>
 
-Hi! I’m Max.
+Hey, I’m Matt, and I'm a junior studying Mechanical Engineering at Cornell University
 
-I am and always have been curious about how the world worked and will work in the future. This curiousity has driven me to develop a broad set of intrests and is why I study engineering.
-
-I am particularly interested in multidisplinary problem solving. I find problems that involve bringing together different areas and information particularly interesting. 
-
-I have found sustainability problems to be a particularly interesting design space for bringing together multiple disciplines and the opprotunities to use knowledge from the past on modern problems. This intrest led me to help found CSalt and serve as its president for the past two years. In that role I have facilitated our different subteams working together and combining there distinct work and have tried to bring in creative and unique solutions to the rapidly developing field of wave energy.
-
-One project I have done in a class is a shoe cleaner for my mechanical design class. This process involved interveiwing potential users about their needs and issues they have surrounding winter weather. I then used this feedback to come up with a series of potential projects that solved common complaints. After refining the most promising ideas I did a basic prototype of three of them to assess their feasibility. Then I did a series of prototypes till I created one that was reasonably effective. I then did an analysis of how I could potentially manufacture the design at a large scale and problems I may run into with that process and a sustainability analysis of the design, manufacturing and transport of the product if I was to manufacture it.
+One project I have done in a class is creating an umbrella for _MAE 2250: Introduction to Mechanical Design_. This process involved interveiwing potential users at my university about their needs and issues they have surrounding using an umbrella during rainy weather, as a large percentage of people refuse to use them. My team and I took the feedback into account and developed a collection of ideas of different solutions to various issues such as weight, sturdiness, and splashing. Once this was done, our team narrowed the pool to three of our best concepts, and created preliminary prototypes for each. We then decided on our favorite one and spent a semester iterating on this design through several prototypes and CAD models in Fusion 360. In our final design, we made sure to focus on the ease of manufacturability, stability, and opening and closing the umbrella quickly.
 
 <div style="height:40px;"></div>
 
