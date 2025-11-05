@@ -37,11 +37,11 @@ permalink: /cv/
     - Assembled, tested, and redesigned the drivetrain and steering system during multiple work sessions per week and engaged in weekly E-Board meetings, contributing to the team’s overall readiness for competition
     - Configured steering mechanism and integrated the drivetrain onto a solar-powered boat for participation, successfully preparing it for the annual Solar Splash competition
    
-    - **Solar Windows Coated with Yb-doped Perovskites - Research Team Member**
+  - **Solar Windows Coated with Yb-doped Perovskites - Research Team Member**
     August - December 2023
-      - Designed an unobtrusive window that harnesses solar energy to power homes and analyzed the market for feasible applications
-      - Researched various methods of synthesizing thin-film perovskites
-      - Calculated energy efficiency of the solar window and estimated cost of installation
+    - Designed an unobtrusive window that harnesses solar energy to power homes and analyzed the market for feasible applications
+    - Researched various methods of synthesizing thin-film perovskites
+    - Calculated energy efficiency of the solar window and estimated cost of installation
 
   ---
 
