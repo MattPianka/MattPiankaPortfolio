@@ -7,7 +7,7 @@ permalink: /cv/
 ## EDUCATION
   - **Cornell University, College of Engineering**  
     *B.S. Mechanical Engineering*  
-    GPA: 3.71/4.0 | Graduation: May 2027
+    GPA: 3.71 | Graduation: May 2027
 
 ---
 
