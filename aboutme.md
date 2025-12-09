@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="image-wrapper">
-  <img src="{{ site.baseurl }}/assets/LEAD Matt Pianka - Mechanical Engineering 2027.JPG" alt="Matt Pianka" class="profile-image">
+  <img src="{{ site.baseurl }}/assets/pdf/LEAD Matt Pianka - Mechanical Engineering 2027.JPG" alt="Matt Pianka" class="profile-image">
 </div>
 
 Hey, I’m Matt and I'm a junior studying Mechanical Engineering at Cornell University, and I am looking for a internship/job in engineering design. I have previous experience working at DuPont as an Engineering Intern managing the HVAC on site. On campus, I am the Co-Founder and Mechanical Subteam Lead of the CSalt Project Team, and I was the Drivetrain & Steering Subteam Lead for the Cornell University Solar Boat Project Team.
