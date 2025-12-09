@@ -7,4 +7,4 @@ title: Projects
 
 Below are my current projects:
 
-- [Torque Wrench Analysis](./torque-wrench-analysis.html)
+- [Torque Wrench Analysis](./torque-wrench-analysis.md)
