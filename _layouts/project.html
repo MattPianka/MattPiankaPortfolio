@@ -22,5 +22,8 @@ layout: default
     {% if page.repo_link %}
       <p><strong><a href="{{ page.repo_link }}" target="_blank" rel="noopener noreferrer">View Code Repository</a></strong></p>
     {% endif %}
+    {% if page.pdf_link %}
+      <p><strong><a href="{{ page.pdf_link | relative_url }}" target="_blank" rel="noopener noreferrer">Open Project PDF</a></strong></p>
+    {% endif %}
   </div>
 </article>
