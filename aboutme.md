@@ -17,4 +17,4 @@ One project I have done in a class is creating an umbrella for _MAE 2250: Introd
 
 <img src="{{ site.baseurl }}\assets\images\plane_running.JPG" alt="" class="project-image" style="width:100%;">
 
-[Projects](./project.md)
+[Projects](./projects.md)
