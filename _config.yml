@@ -22,10 +22,10 @@ kramdown:
 collections:
   projects:
     output: true # This will generate a page for each project
-    permalink: /projects/:name/ # URL structure for individual project pages
+    permalink: /projects.html/:MattPianka/ # URL structure for individual project pages
   reports:
     output: true # This will generate a page for each report
-    permalink: /reports/:name/ # URL structure for individual report pages
+    permalink: /reports.html/:MattPianka/ # URL structure for individual report pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
