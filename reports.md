@@ -7,4 +7,4 @@ title: Reports
 
 Below are my past Reports:
 
-- [Blender Project Report](./blender_project_report.pdf)
+- [Blender Project Report](./blender_project_report.md)
