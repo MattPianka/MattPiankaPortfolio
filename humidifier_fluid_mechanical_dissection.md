@@ -10,4 +10,4 @@ repo_link: https://github.com/MattPianka/<your-project-repo>
 This project analyzes the fluids concepts that allow a humidifier to work.  
 It includes MATLAB code, ANSYS simulations, and mechanical analysis.
 
-[**Open Video Analysis**]({{ (https://www.youtube.com/watch?v=FDkYN33d2iA) }})
+[**Open Video Analysis**]({{(https://www.youtube.com/watch?v=FDkYN33d2iA)}})
